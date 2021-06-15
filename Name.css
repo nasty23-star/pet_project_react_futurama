@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(190, 60, 60);
+    font-size: 80px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+h1:hover {
+    opacity: 0.2;
+}
